@@ -1,0 +1,19 @@
+* {
+  list-style-type: none !important;
+  text-decoration: none !important;
+}
+
+body header nav ul li {
+  background-color: rgb(29, 29, 29);
+  margin: 0 10px;
+  min-width: 150px !important;
+  width: auto !important;
+}
+body header nav ul li a {
+  color: white !important;
+}
+body header nav ul #logo_account {
+  width: 40px !important;
+  height: 40px !important;
+  border-radius: 10px;
+}/*# sourceMappingURL=style.css.map */
